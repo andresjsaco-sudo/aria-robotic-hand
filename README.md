@@ -4,7 +4,6 @@ A five-finger robotic hand that copies the wearer's finger movements wirelessly.
 
 The 3D-printed hand, servos and nylon tendons are a mechanical prototype from a previous year's project; this project is the electronic control and teleoperation system that drives it.
 
-![The instrumented glove: one IR module per finger and the ESP32-S3 on the back of the hand](docs/img/glove.jpg)
 
 ## How it works
 
